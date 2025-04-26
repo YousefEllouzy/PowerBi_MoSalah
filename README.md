@@ -29,8 +29,10 @@ This project provides an in-depth analysis of Mohamed Salah’s football career 
 3. Explore the visual dashboards and filter as needed.
 
 ## Screenshot
-(Add a screenshot of the dashboard here if available)
-
+![overview](https://github.com/user-attachments/assets/5b0dfd71-ab59-4ebd-8355-02d0e3b9a264)
+![2](https://github.com/user-attachments/assets/b6d7e12e-039c-423c-b238-2d9fe920768e)
+![3](https://github.com/user-attachments/assets/844a32c8-8ba3-47f3-b212-4971b6ceeb51)
+![4](https://github.com/user-attachments/assets/8a31e348-2555-48d7-a139-377d7e176915)
+![5](https://github.com/user-attachments/assets/13249ba7-8ed3-4b56-a8de-9f35fe4f2748)
 ## Author
 - Yousef Ellouzey
-- [LinkedIn Profile](#) (Yousef Ellouzey)
